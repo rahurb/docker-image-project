@@ -1,0 +1,10 @@
+id,name,sal
+101,rahul,45000
+102,chetan,18000
+,,,
+103,rajesh,18000
+104,,
+105,raji,
+106,rahul,15000
+107,rakesh,10000
+108,roshan,11000
